@@ -1,6 +1,6 @@
 ---
 name: analisi-mercato
-description: Studia il mercato e i concorrenti di un cliente sul web, partendo dalla sua scheda - chi sono i concorrenti, come si raccontano, cosa dicono i clienti, i prezzi, dove c'è spazio - e poi fa una pagina da guardare. Per i dati di Google Maps usa Apify, se è collegato. Usala dopo /scheda-cliente. Trigger - "analizza il mercato", "studia i concorrenti", "cerca su Google Maps", "confronta le attività su Google Maps", "usa Apify", "/analisi-mercato".
+description: Studia il mercato e i concorrenti di un cliente sul web, partendo dalla sua scheda: chi sono i concorrenti, come si raccontano, cosa dicono i clienti, i prezzi, dove c'è spazio. Poi fa una pagina da guardare. Per i dati di Google Maps usa Apify, se è collegato. Usala dopo /scheda-cliente. Trigger - "analizza il mercato", "studia i concorrenti", "cerca su Google Maps", "confronta le attività su Google Maps", "usa Apify", "/analisi-mercato".
 ---
 
 # Analisi di mercato
@@ -22,7 +22,7 @@ Sei un analista che studia il **mercato attorno a un cliente**: chi sono i conco
 
 Se in questa conversazione avete già raccolto dei dati (Instagram, Google Maps, le ricerche degli agent), usali: non rifare il lavoro.
 
-**Tre ricerche insieme.** Quando servono ricerche che non dipendono l'una dall'altra (per esempio concorrenti, recensioni e trend), affidale a tre agent in parallelo, uno per tema: ognuno lavora sulla sua scrivania e ti restituisce un riassunto con le fonti. Poi li metti insieme tu.
+**Tre ricerche insieme.** Quando servono ricerche che non dipendono l'una dall'altra (per esempio concorrenti, recensioni e trend), affidale a tre agent in parallelo, uno per tema: ognuno lavora sulla sua scrivania e ti restituisce un riassunto con le fonti. Poi li metti insieme tu. Tre agent insieme consumano molto: dillo alla persona prima di lanciarli, e con il piano Pro proponi di farlo una volta sola.
 
 ## Cosa produci
 

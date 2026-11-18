@@ -1,6 +1,6 @@
 # Skill pronte
 
-Qui trovi le due skill dell'Analista che hai visto con Paola. Funzionano così come sono, ma **la strada consigliata è installarle con la guida «Il tuo Analista al lavoro»**, quando una delle tue opportunità le chiede: Claude te le spiega, ti fa una o due domande e le adatta al tuo modo di lavorare prima di installarle.
+Qui trovi le due skill dell'Analista di Paola. Funzionano così come sono, ma **la strada consigliata è installarle con la guida «Il tuo Analista al lavoro»**, quando una delle tue opportunità le chiede: Claude te le spiega, ti fa una o due domande e le adatta al tuo modo di lavorare prima di installarle.
 
 Prima di installarle, nel `CLAUDE.md` del vault va aggiunta la sezione «Le pagine da guardare» (Passo 1 della guida): le skill finiscono con una pagina da guardare, e la sezione dice al tuo Claude come farla.
 

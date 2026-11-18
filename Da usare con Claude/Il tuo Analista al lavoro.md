@@ -81,7 +81,7 @@ Dopo ogni passo: spunta le caselle del passo con la data (`✅ AAAA-MM-GG`; un p
 
 ### Passo 1 - Prepara il vault
 
-**Perché**: in aula Paola chiedeva «fammelo vedere come pagina» e Claude trasformava un file in una pagina da guardare. Il tuo Claude deve sapere come farlo anche nel tuo vault.
+**Perché**: Paola chiede «fammelo vedere come pagina» e Claude trasforma un file in una pagina da guardare. Il tuo Claude deve sapere come farlo anche nel tuo vault.
 
 Cosa fai:
 
@@ -184,8 +184,8 @@ Cosa fai:
 **Le cinque mosse**
 
 1. **Capire un cliente.** Skill pronta `scheda-cliente`. La persona scrive: `/scheda-cliente`, poi «Il cliente è [nome]: i file sono in [cartella]». Se il sito non è nel vault, Claude lo legge dal web. Esce: `scheda-cliente.md` nella cartella del cliente e la pagina da guardare. Alla sintesi si risponde «Sì, procedi».
-2. **Cercare fuori.** Per una domanda veloce basta la ricerca di Claude: «Trova [i concorrenti di X / le recensioni di Y / i prezzi di Z] e dimmi [cosa ti serve sapere]». Per un'analisi completa, skill pronta `analisi-mercato`: `/analisi-mercato`. La skill parte dalla scheda del cliente: se `scheda-cliente.md` non c'è, fai prima la mossa 1. Se hai Claude in Chrome, per le pagine con login (social) di': «Con Chrome apri...». Apify usalo solo se l'hai già collegato: collegarlo è un lavoro da fare con calma, non in aula. Esce: una risposta con i link, oppure `analisi-mercato.md` e la pagina.
-3. **Leggere i numeri.** Serve un file di dati: un Excel, un CSV, un export del gestionale. Copialo nella cartella del cliente o del progetto. **Niente dati personali di altri** (nomi, email, telefoni di clienti). Prima di leggere i numeri, Claude guarda solo i titoli delle colonne, ti dice quali hanno dati personali e, con il tuo sì, prepara una copia senza quelle colonne: il tuo file resta com'è e si lavora sulla copia. Oppure usi le vendite del Birrificio, `documenti/vendite-2025.xlsx` nel cliente di esempio (con il sì, Claude copia prima la sua cartella in `1-Projects/`). La persona scrive: «Leggi [file] e fammi vedere come stanno andando: [cosa vuoi capire]». Poi fa una seconda domanda nella stessa conversazione: la pagina cambia. Esce: una pagina con i numeri, privata.
+2. **Cercare fuori.** Per una domanda veloce basta la ricerca di Claude: «Trova [i concorrenti di X / le recensioni di Y / i prezzi di Z] e dimmi [cosa ti serve sapere]». Per un'analisi completa, skill pronta `analisi-mercato`: `/analisi-mercato`. Lancia tre agent insieme e consuma molto: con il piano Pro falla una volta sola. La skill parte dalla scheda del cliente: se `scheda-cliente.md` non c'è, fai prima la mossa 1. Se hai Claude in Chrome, per le pagine con login (social) di': «Con Chrome apri...». Apify usalo solo se l'hai già collegato: collegarlo è un lavoro da fare con calma, non in aula. Esce: una risposta con i link, oppure `analisi-mercato.md` e la pagina.
+3. **Leggere i numeri.** Serve un file di dati: un Excel, un CSV, un file scaricato dal gestionale. Copialo nella cartella del cliente o del progetto. **Niente dati personali di altri** (nomi, email, telefoni di clienti). Prima di leggere i numeri, Claude guarda solo i titoli delle colonne, ti dice quali hanno dati personali e, con il tuo sì, prepara una copia senza quelle colonne: il tuo file resta com'è e si lavora sulla copia. Oppure usi le vendite del Birrificio, `documenti/vendite-2025.xlsx` nel cliente di esempio (con il sì, Claude copia prima la sua cartella in `1-Projects/`). La persona scrive: «Leggi [file] e fammi vedere come stanno andando: [cosa vuoi capire]». Poi fa una seconda domanda nella stessa conversazione: la pagina cambia. Esce: una pagina con i numeri, privata.
 4. **Presentare.** Parti da un'analisi, una scheda o degli appunti che hai già. La persona scrive: «Fai una presentazione in PowerPoint per [cliente] partendo da [file]: [per chi è e cosa deve decidere]». Se Claude non riesce a creare il file PowerPoint, chiedi un report nel vault con la sua pagina da guardare. Esce: il file da aprire e sfogliare.
 5. **Una tua skill.** Per una procedura che fai sempre allo stesso modo (una relazione, un'offerta, un controllo). Guardate insieme `skill-pronte/scheda-cliente/SKILL.md` come esempio di forma: nome, descrizione, passi, cosa esce. Fai alla persona le domande per scrivere la sua, una alla volta, poi con il sì crea `.claude/skills/[nome]/SKILL.md` e provala con `/[nome]`.
 
@@ -201,7 +201,7 @@ Fai l'altra opportunità di `Le mie opportunità.md`. Oppure chiedi al tuo agent
 
 ## Il compito per casa
 
-Usa il tuo agent almeno due volte in settimana, su lavoro vero, e fai l'opportunità che ti è rimasta. Poi raccontalo con un'email a mihai@mihaimoraru.net entro **mercoledì 25 novembre alle 13:00**: cosa fa il tuo agent, cosa ha trovato che ti sarebbe sfuggito, cosa gli cambieresti. Nell'email niente nomi di clienti o dati riservati: scrivi il ruolo («un cliente», «la socia»). Se vuoi, chiedi a Claude di prepararla dal registro di questa guida; la copi e la mandi tu dalla tua posta.
+Usa il tuo agent almeno due volte in settimana, su lavoro vero, e fai l'opportunità che ti è rimasta. Poi raccontalo con un'email a mihai@mihaimoraru.net entro **mercoledì 25 novembre alle 13:00**, con oggetto «Feedback Analista · Corso Claude Code serale · Nome Cognome»: cosa fa il tuo agent, cosa ha trovato che ti sarebbe sfuggito, cosa gli cambieresti. Nell'email niente nomi di clienti o dati riservati: scrivi il ruolo («un cliente», «la socia»). Se vuoi, chiedi a Claude di prepararla dal registro di questa guida; la copi e la mandi tu dalla tua posta.
 
 ## Per riprendere
 

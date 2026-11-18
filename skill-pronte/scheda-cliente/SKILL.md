@@ -1,6 +1,6 @@
 ---
 name: scheda-cliente
-description: Crea la scheda di un cliente leggendo il suo sito e i file che ti ha girato (PDF, Word, Excel, testi, post), e poi una pagina da guardare. Usala quando vuoi capire chi è un cliente prima di lavorarci - chi è, cosa vende e a che prezzi, come parla, forze e debolezze. Trigger - "fammi la scheda del cliente", "analizza questo cliente", "/scheda-cliente".
+description: Crea la scheda di un cliente leggendo il suo sito e i file che ti ha girato (PDF, Word, Excel, testi, post), e poi una pagina da guardare. Usala quando vuoi capire chi è un cliente prima di lavorarci: chi è, cosa vende e a che prezzi, come parla, forze e debolezze. Trigger - "fammi la scheda del cliente", "analizza questo cliente", "/scheda-cliente".
 ---
 
 # Scheda cliente

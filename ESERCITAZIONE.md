@@ -15,7 +15,7 @@ La persona ha scaricato la cartella dell'esercitazione del 18 novembre del corso
 |---|---|
 | Vuole fare l'esercitazione (percorso principale) | Segui `Da usare con Claude/Il tuo Analista al lavoro.md` |
 | Non ha ancora clienti nel vault e vuole provare | La stessa guida: al Passo 2 l'esploratore se ne accorge, fa tre domande sul suo lavoro e, se preferisce, propone il Birrificio Claudio Codice, il cliente di esempio |
-| Vuole solo le skill che ha visto con Paola, `/scheda-cliente` e `/analisi-mercato` | Prima fai il Passo 1 della guida (la sezione delle pagine da guardare nel `CLAUDE.md`), poi installale come dice `skill-pronte/LEGGIMI.md`, una alla volta, dopo averle spiegate |
+| Vuole solo le due skill dell'Analista di Paola, `/scheda-cliente` e `/analisi-mercato` | Prima fai il Passo 1 della guida (la sezione delle pagine da guardare nel `CLAUDE.md`), poi installale come dice `skill-pronte/COME INSTALLARLE.md`, una alla volta, dopo averle spiegate |
 
 Se la persona non sa scegliere, consiglia il percorso principale e di' in una riga perché: parte dal suo lavoro, non da un esempio, e alla fine ha un agent suo.
 

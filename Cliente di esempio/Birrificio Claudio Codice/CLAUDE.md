@@ -7,7 +7,7 @@ aggiornato: 2026-11-04
 
 ## Di cosa si tratta
 
-Piccolo birrificio artigianale della bergamasca, con taproom. Cliente nuovo di Bussola: l'ha chiuso Luca il 04/11/2026, e Alberto ha affidato il progetto a Paola. L'incarico: farlo conoscere fuori zona e far crescere lo shop online, con il lancio della nuova birra invernale, Codice Neve. Il primo appuntamento è il kickoff con il cliente, venerdì 13 novembre: si aspettano l'analisi e una presentazione della strategia.
+Piccolo birrificio artigianale della bergamasca, con taproom. Cliente nuovo di Bussola: l'ha chiuso Luca il 04/11/2026, e Alberto ha affidato il progetto a Paola. L'incarico: farlo conoscere fuori zona e far crescere lo shop online, con il lancio della nuova birra invernale, Codice Neve. Il primo appuntamento è il kickoff con il cliente, venerdì 27 novembre: si aspettano l'analisi e una presentazione della strategia.
 
 ## Chi decide
 

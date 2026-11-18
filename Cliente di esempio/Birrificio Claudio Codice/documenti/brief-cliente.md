@@ -24,7 +24,7 @@ Sito vecchiotto, shop online che rende poco, Instagram con pochi follower e post
 Awareness fuori zona + spingere lo shop online, sfruttando il lancio di Codice Neve.
 
 ## Il primo appuntamento
-Kickoff con Marco e Stefano venerdì 13 novembre: si aspettano l'analisi e una presentazione della strategia.
+Kickoff con Marco e Stefano venerdì 27 novembre: si aspettano l'analisi e una presentazione della strategia.
 
 ## KPI di fine mese
 Reach e nuovi follower, visite al sito, ordini online, engagement sul lancio.

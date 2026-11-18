@@ -1,6 +1,6 @@
 # Corso Claude Code serale · L'esercitazione del 18 novembre
 
-Qui trovi il materiale dell'esercitazione del modulo 7: il tuo **Analista**. È quello che hai visto con Paola: capire un cliente, cercare fuori, leggere i numeri, presentare, e un collega in più, l'agent, che lavora sulla sua scrivania e ti restituisce solo il resoconto.
+Qui trovi il materiale dell'esercitazione del modulo 7: il tuo **Analista**. È il lavoro dell'Analista di Paola: capire un cliente, cercare fuori, leggere i numeri, presentare, e un collega in più, l'agent, che lavora sulla sua scrivania e ti restituisce solo il resoconto.
 
 L'esercitazione non parte da un esempio: parte dal tuo lavoro. Un agent legge il tuo Secondo Cervello e ti propone dove l'Analista ti serve davvero; poi crei il tuo primo agent salvato e fai una mossa sul tuo caso.
 
@@ -31,8 +31,8 @@ Claude lavora solo dentro il tuo Secondo Cervello: una cartella lasciata nei Dow
 
 - **`ESERCITAZIONE.md`**: il punto di partenza. Lo leggi tu e lo legge Claude.
 - **`Da usare con Claude/`**: i file che non leggi tu, li dai a Claude.
-  - *Il tuo Analista al lavoro*: la guida dell'esercitazione, in quattro passi. Prepari il vault; l'esploratore, un agent, legge il tuo lavoro e ti propone tre opportunità; crei il tuo agent salvato; fai una mossa dell'Analista sul tuo caso.
-- **`skill-pronte/`**: le due skill che hai visto con Paola, `scheda-cliente` e `analisi-mercato`. La guida le usa se una tua opportunità le chiede; istruzioni in `skill-pronte/LEGGIMI.md`.
+  - *Il tuo Analista al lavoro*: la guida dell'esercitazione, in quattro passi. Prepari il tuo Secondo Cervello; l'esploratore, un agent, legge il tuo lavoro e ti propone tre opportunità; crei il tuo agent salvato; fai una mossa dell'Analista sul tuo caso.
+- **`skill-pronte/`**: le due skill dell'Analista di Paola, `scheda-cliente` e `analisi-mercato`. La guida le usa se una tua opportunità le chiede; istruzioni in `skill-pronte/COME INSTALLARLE.md`.
 - **`Esempi di agent/`**: `revisore.md`, il revisore di Paola. Un esempio di come è fatto un agent salvato: lo guardi per scrivere il tuo.
 - **`Cliente di esempio/`**: il Birrificio Claudio Codice con il suo materiale (brief, sito, listino, profilo, vendite del 2025, post, dati delle campagne), se non hai ancora clienti su cui provare.
 - **`Guida a GitHub.md`**: cos'è GitHub e come scarichi il materiale a mano.
@@ -45,7 +45,7 @@ Fai l'altra opportunità che ti ha proposto l'esploratore. Oppure fai lavorare i
 
 ## Il compito per casa
 
-Usa il tuo agent almeno due volte in settimana, su lavoro vero, e fai l'opportunità che ti è rimasta. Poi raccontalo con un'email a mihai@mihaimoraru.net entro **mercoledì 25 novembre alle 13:00**: cosa fa il tuo agent, cosa ha trovato che ti sarebbe sfuggito, cosa gli cambieresti. Nell'email niente nomi di clienti o dati riservati: scrivi il ruolo («un cliente», «la socia»).
+Usa il tuo agent almeno due volte in settimana, su lavoro vero, e fai l'opportunità che ti è rimasta. Poi raccontalo con un'email a mihai@mihaimoraru.net entro **mercoledì 25 novembre alle 13:00**: cosa fa il tuo agent, cosa ha trovato che ti sarebbe sfuggito, cosa gli cambieresti. Oggetto: «Feedback Analista · Corso Claude Code serale · Nome Cognome». Nell'email niente nomi di clienti o dati riservati: scrivi il ruolo («un cliente», «la socia»).
 
 ## Se qualcosa non torna
 
